@@ -2,4 +2,4 @@
 
 **Desarrollado por:** Melannie Sofia Guerrero Guerrero
 
-**Enlace al sitio desplegado:** [https://s1ipm.github.io/Practica-12/](https://s1ipm.github.io/Practica-12/)
+**Enlace al sitio desplegado:** [https://s1ipm.github.io/Practica-12/](file:///C:/Users/sofic/amerike-1ciber/html-1ciber/JujutsuKaisen.html)
