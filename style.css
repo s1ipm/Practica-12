@@ -7,36 +7,33 @@ body {
 }
 
 h1, h2, h3 {
-    color: #2c3e50; /* Color para los encabezados */
+    color: #86add3;
     text-align: center;
 }
 
 /* Header */
 header {
-    background-color: #34495e; /* Fondo oscuro para el encabezado */
-    padding: 20px;
-    color: white; /* Texto en blanco */
+    background-color: #34495e;
+    color: white;
 }
 
 header h1 {
     margin: 0;
-    font-size: 2.5em; /* Tamaño grande del título */
+    font-size: 2.5em;
 }
 
-/* Sección de información general */
 section {
     padding: 20px;
 }
 
 section h2 {
-    color: #e74c3c; /* Color destacado para los subtítulos */
-    border-bottom: 2px solid #e74c3c; /* Subrayado decorativo */
+    color: #e74c3c; 
+    border-bottom: 2px solid #e74c3c;
     padding-bottom: 10px;
 }
 
-/* Lista de temporadas */
 ul {
-    list-style-type: none; /* Quita los puntos de la lista */
+    list-style-type: none;
     padding: 0;
 }
 
@@ -47,7 +44,6 @@ ul li {
     border-left: 4px solid #e74c3c;
 }
 
-/* Tabla de personajes */
 table {
     width: 100%;
     border-collapse: collapse;
@@ -74,13 +70,11 @@ table img {
     height: auto;
 }
 
-/* Póster e imágenes */
 img {
-    max-width: 100%; /* Imagenes responsivas */
+    max-width: 100%;
     height: auto;
 }
 
-/* Enlaces */
 a {
     color: #2980b9;
     text-decoration: none;
@@ -90,13 +84,11 @@ a:hover {
     color: #e74c3c;
 }
 
-/* Video de YouTube */
 iframe {
     display: block;
     margin: 0 auto;
 }
 
-/* Footer */
 footer {
     background-color: #34495e;
     color: white;
@@ -111,7 +103,6 @@ footer p {
     margin: 0;
 }
 
-/* Responsividad */
 @media (max-width: 768px) {
     body {
         font-size: 90%;
